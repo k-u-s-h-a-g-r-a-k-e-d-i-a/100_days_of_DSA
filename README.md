@@ -26,10 +26,15 @@ This repo tracks my **100 Days DSA** journey — solving problems daily, learnin
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushagra&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k-u-s-h-a-g-r-a-k-e-d-i-a&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
-![Progress](https://img.shields.io/badge/Day-12%2F100-brightgreen?style=for-the-badge)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-u-s-h-a-g-r-a-k-e-d-i-a&theme=tokyo-night" alt="Activity graph" />
+</p>
+
 
 
 ---
