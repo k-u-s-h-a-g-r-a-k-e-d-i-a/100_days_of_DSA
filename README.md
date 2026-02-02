@@ -1,19 +1,19 @@
 # 🔥 100 Days Bakka
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=100%20Days%20Bakka&fontSize=30&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=100%20Days%20DSA&fontSize=30&fontColor=fff" />
 </p>
 
 ---
 
 ## 🚀 About
-This repo tracks my **100 Days Bakka** journey — solving problems daily, learning new concepts, and building consistency in coding & DSA.
+This repo tracks my **100 Days DSA** journey — solving problems daily, learning new concepts, and building consistency in coding & DSA.
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,sql" />
 </p>
 
 ---
