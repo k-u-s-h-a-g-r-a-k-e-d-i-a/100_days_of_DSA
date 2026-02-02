@@ -24,19 +24,6 @@ This repo tracks my **100 Days DSA** journey — solving problems daily, learnin
 - 🔜 Trees, Graphs, DP
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-u-s-h-a-g-r-a-k-e-d-i-a&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-
-
-
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer&text=Keep%20Coding!&fontSize=20&fontColor=fff" />
 </p>
