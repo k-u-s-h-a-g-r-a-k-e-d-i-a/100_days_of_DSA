@@ -1,53 +1,37 @@
-# 🔥 1000 Days of DSA
+# 🔥 100 Days Bakka
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=1000%20Days%20of%20DSA&fontSize=40&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=100%20Days%20Bakka&fontSize=30&fontColor=fff" />
 </p>
 
 ---
 
-## 🚀 About This Repo
-This repository documents my **1000 Days of DSA** journey — solving problems daily, mastering data structures & algorithms, and building consistency.  
-Every solution is **modular, well‑commented, and professionally presented** to make learning clear and reusable.
+## 🚀 About
+This repo tracks my **100 Days Bakka** journey — solving problems daily, learning new concepts, and building consistency in coding & DSA.
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 Progress Tracker
-- 📅 **Day 1 → Day 1000**
-- ✅ Arrays, Strings, Linked Lists, Stacks, Queues
-- 🔜 Trees, Graphs, Dynamic Programming, Advanced Algorithms
+## 📊 Progress
+- 📅 **Day 1 → Day 100**
+- ✅ Arrays, Strings, Linked Lists
+- 🔜 Trees, Graphs, DP
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushagra&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kushagra&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎨 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushagra&theme=react-dark" />
-</p>
-
----
-
-## 🏆 Goals
-- Build a **portfolio of 1000+ solved problems**
-- Strengthen **problem‑solving speed & accuracy**
-- Prepare for **competitive programming & interviews**
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer&text=Keep%20Coding!&fontSize=20&fontColor=fff" />
 </p>
