@@ -1,4 +1,4 @@
-# 🔥 100 Days Bakka
+# 🔥 100 Days DSA
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=100%20Days%20DSA&fontSize=30&fontColor=fff" />
