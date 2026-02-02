@@ -31,9 +31,7 @@ This repo tracks my **100 Days DSA** journey — solving problems daily, learnin
   <img src="https://github-readme-stats.vercel.app/api?username=k-u-s-h-a-g-r-a-k-e-d-i-a&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-u-s-h-a-g-r-a-k-e-d-i-a&theme=tokyo-night" alt="Activity graph" />
-</p>
+
 
 
 
