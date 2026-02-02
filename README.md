@@ -29,6 +29,8 @@ This repo tracks my **100 Days DSA** journey — solving problems daily, learnin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kushagra&show_icons=true&theme=tokyonight" />
 </p>
+![Progress](https://img.shields.io/badge/Day-12%2F100-brightgreen?style=for-the-badge)
+
 
 ---
 
