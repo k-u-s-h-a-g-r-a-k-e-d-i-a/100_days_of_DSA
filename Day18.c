@@ -1,19 +1,34 @@
-//Find Maximum and Minimum Element
 #include <stdio.h>
-int main(){
-    int n;
-    int arr[n];
-    int min = 0;
-    int max=0;
-    for(int i=0;i<n;i++){
-        scanf("%d",&arr[i]);
-    }
-    for(int i=0;i<n;i++){
-        if(arr[i]<min)
-            min = arr[i];
-        else if(arr[i]>max)
-            max = arr[i];
-    }
-    printf("max:%d,Min:%d",max,min);
-    return 0;
+
+void reverse(int arr[], int start, int end) {
+	while (start < end) {
+		int temp = arr[start];
+		arr[start] = arr[end];
+		arr[end] = temp;
+		start++;
+		end--;
+	}
+}
+
+int main() {
+	int n, k;
+	
+
+	scanf("%d", &n);
+	int arr[n];
+	for (int i = 0; i < n; i++) {
+		scanf("%d", &arr[i]);
+	}
+	scanf("%d", &k);
+	k = k % n;
+	reverse(arr, 0, n - 1);
+	reverse(arr, 0, k - 1);
+	reverse(arr, k, n - 1);
+	for (int i = 0; i < n; i++) {
+		printf("%d", arr[i]);
+		if (i < n - 1) printf(" ");
+	}
+	printf("\n");
+
+	return 0;
 }
