@@ -1,20 +1,20 @@
+
+//Find Maximum and Minimum Element
 #include <stdio.h>
 int main(){
     int n;
-    scanf("%d",&n);
     int arr[n];
-    int freq[100]; //let frequency of each element be less than 100.
+    int min = 0;
+    int max=0;
     for(int i=0;i<n;i++){
         scanf("%d",&arr[i]);
-        freq[arr[i]]++;
     }
-    
-    for(int i =0;i<n;i++){
-        if(arr[i]>0){
-            printf("%d,%d",arr[i],freq[arr[i]]);
-            freq[arr[i]] =0;
-        }
+    for(int i=0;i<n;i++){
+        if(arr[i]<min)
+            min = arr[i];
+        else if(arr[i]>max)
+            max = arr[i];
     }
-    printf("\n");
+    printf("max:%d,Min:%d",max,min);
     return 0;
 }
